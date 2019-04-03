@@ -31,8 +31,9 @@ Script that contains several features to help improve performance.
 (To be sure, you can double-click it twice until a window pop-up. Click 'yes')
 2. Start Yaburi
 3. Go to any map allows fishing
-4. Make sure Yaburi window is at top/front
-5. 'ctrl' + 'G'
+4. Start fishing
+5. Make sure Yaburi window is at top/front
+6. 'ctrl' + 'G'
 
 ### To exit: press ESC
 ### Pause/Resume: Ctrl+Alt+P
@@ -76,8 +77,9 @@ Script that contains several features to help improve performance.
 1. 双击脚本（保险起见可以双击*2，会有一个弹出窗口，确认就可以了）
 2. 打开野菜部落
 3. 点进任意钓鱼地图
-4. 野菜要在最上面(点一下野菜窗口的任意位置)
-5. 'ctrl' + 'G'
+4. 开始钓鱼
+5. 野菜要在最上面(点一下野菜窗口的任意位置)
+6. 'ctrl' + 'G'
 
 **退出脚本按Esc**
 
