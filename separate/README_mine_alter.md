@@ -2,7 +2,7 @@
 Script that contains several features to help improve performance.
 
 ## Installation
-	Download the executable ('.exe')
+	Download the executable ('yaburi_mine.exe')
 
 ## Manual
 **Hardware Requirements:** 
@@ -25,22 +25,23 @@ Script that contains several features to help improve performance.
 4. Make sure Yaburi window is at top/front
 5. 'shift' + 'J'
 
-### To exit: press ESC**
+### To exit: press ESC
+### Pause/Resume: Ctrl+Alt+P
+### Reload: Ctrl+Alt+R
 
 ## Note**
 * Whenever you 'Esc'ed the program, you will need to restart the script
-* If used any of the features, you will need to restart the script to use the other one 
+* If used any of the features, you will need to reload the script to use other features
 * The two features cannot be used together right now
 
 ## TroubleShooting:
 1. If the mouse moved outside of the program window, it is possible that the Yaburi window was not place at top/front. Exit by press 'ESC'. Then repeat above the steps. 
 	Note: If above error occurred, there is no need to restart Yaburi. 
 	
-============================================================================
-
+==========================================================================
 
 ## 安装
-	下载带.exe 后缀的文件
+	下载带.exe 后缀的文件 ('yaburi_mine.exe')
 
 ## 运行脚本
 野菜窗口分辨率 长宽都必须大于等于300
@@ -61,6 +62,10 @@ Script that contains several features to help improve performance.
 5. 'shift' + 'j'
 
 **退出脚本按Esc**
+
+**暂停/继续：Ctrl+Alt+P**
+
+**重启脚本：Ctrl+Alt+R**
 
 - p.s. 如果鼠标点到了窗口外面，那应该是野菜窗口没置顶，先按Esc退出，然后从头开始
 - p.p.s. 如果出现上述错误，不用重启野菜
